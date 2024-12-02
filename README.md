@@ -9,17 +9,13 @@
 
 - 🌱 I’m currently learning **Google Data Analytics, Entrepreneurship: Growing Your Business**
 
-- 👯 I’m looking to collaborate on [portolofio_react](https://github.com/joseph8884/joseguz_portolofio_react)
-
-- 🤝 I’m looking for help with **Obvio**
-
 - 👨‍💻 All of my projects are available at [https://github.com/joseph8884/joseguz_portolofio_react](https://github.com/joseph8884/joseguz_portolofio_react)
 
 - 💬 Ask me about **spring, react, vue etc.**
 
 - 📫 How to reach me **josegzm08@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGN2QiWABY/4mlxwhHTb8yWyx9XFLXNig/edit?utm_content=DAGN2QiWABY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGN2QiWABY/4mlxwhHTb8yWyx9XFLXNig/edit?utm_content=DAGN2QiWABY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [CV JOSE GUZMAN](https://www.canva.com/design/DAGN2QiWABY/4mlxwhHTb8yWyx9XFLXNig/edit?utm_content=DAGN2QiWABY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -34,5 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseph8884&show_icons=true&locale=en&layout=compact" alt="joseph8884" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph8884&show_icons=true&locale=en" alt="joseph8884" /></p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Gemu03/Gemu03/output/snake.svg" alt="Snake animation" />
