@@ -33,4 +33,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gemu03/Gemu03/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/joseph8884/joseph8884/output/snake.svg" alt="Snake animation" />
