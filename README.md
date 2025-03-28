@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Google Data Analytics, Entrepreneurship: Growing Your Business**
 
-- 👨‍💻 All of my projects are available at [https://github.com/joseph8884/joseguz_portolofio_react](https://github.com/joseph8884/joseguz_portolofio_react)
+- 👨‍💻 All of my projects are available at [joseguz-portfolio](https://joseguz-portolofio-react.onrender.com)
 
 - 💬 Ask me about **spring, react, vue etc.**
 
