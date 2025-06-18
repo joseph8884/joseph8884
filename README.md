@@ -9,17 +9,17 @@
 
 ## 🚀 About Me
 
-[cite_start]I'm an innovative and results-driven Software Engineer with a robust background in backend development, cloud architecture, and robotics. [cite_start]Passionate about advancing technology in AI and automation, I bring a proven track record of leadership in competitive robotics and entrepreneurial ventures. [cite_start]My experience includes managing cross-functional teams and implementing scalable solutions to drive business outcomes.
+I'm an innovative and results-driven Software Engineer with a robust background in backend development, cloud architecture, and robotics. Passionate about advancing technology in AI and automation, I bring a proven track record of leadership in competitive robotics and entrepreneurial ventures. My experience includes managing cross-functional teams and implementing scalable solutions to drive business outcomes.
 
-[cite_start]Currently, I'm spearheading digital transformation and client-centric solutions as the COO and Co-Founder of **Webelopers**.
+Currently, I'm spearheading digital transformation and client-centric solutions as the COO and Co-Founder of **Webelopers**.
 
 ---
 
 ## 🔥 What I'm Up To
 
-- [cite_start]🔭 **Building & Leading:** Actively working on custom software solutions leveraging cloud technologies and agile methodologies at [Webelopers](https://webelopers.io)[cite: 6].
-- [cite_start]💡 **Innovation & Community:** As former President of the IEEE Robotics and Automation Society (RAS), I organized workshops, competitions, and seminars, inspiring innovation and practical application of robotics principles.
-- [cite_start]🤖 **Robotics Excellence:** Proud to have represented Universidad de La Sabana at RoboCup 2024 in Eindhoven, Netherlands, where I led the team to the semifinals and designed advanced robotics solutions.
+- 🔭 **Building & Leading:** Actively working on custom software solutions leveraging cloud technologies and agile methodologies at [Webelopers](https://webelopers.io).
+- 💡 **Innovation & Community:** As former President of the IEEE Robotics and Automation Society (RAS), I organized workshops, competitions, and seminars, inspiring innovation and practical application of robotics principles.
+- 🤖 **Robotics Excellence:** Proud to have represented Universidad de La Sabana at RoboCup 2024 in Eindhoven, Netherlands, where I led the team to the semifinals and designed advanced robotics solutions.
 - 🌱 **Continuous Learning:** Always expanding my knowledge in areas like Google Data Analytics and Entrepreneurship: Growing Your Business.
 
 ---
@@ -28,9 +28,9 @@
 
 My passion for cloud architecture, especially AWS, is a key driver in my career. I'm dedicated to designing and delivering scalable, efficient, and robust cloud-based solutions.
 
-- [cite_start]**AWS Cloud Practitioner Foundational** - Certified May 2025 
-- [cite_start]**AWS Cloud Solutions Architect Specialization** - Completed December 2024 
-- [cite_start]**Key Skills:** AWS services, Docker, Git, Linux 
+- **AWS Cloud Practitioner Foundational** - Certified May 2025
+- **AWS Cloud Solutions Architect Specialization** - Completed December 2024
+- **Key Skills:** AWS services, Docker, Git, Linux
 - **Future Focus:** Eager to contribute my expertise in AWS cloud environments and continue building cutting-edge solutions.
 
 ---
